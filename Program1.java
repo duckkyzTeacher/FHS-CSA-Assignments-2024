@@ -13,3 +13,11 @@ public class Program1
         System.out.print(" correct me!");
      }
 }
+
+
+//Answer #5 below:
+/*
+~TYPE HERE~
+
+
+*/
