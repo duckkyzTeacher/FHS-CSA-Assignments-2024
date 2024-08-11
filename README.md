@@ -20,3 +20,25 @@ You will practice modifying a program by adding lines, deleting lines, and chang
   
 ### **4.	Answer this question at the very bottom of your program:**
 - What is the difference between print() and println()?
+
+____________________________________________________________________________________
+# Program 2
+(area and width)
+
+## Program Description:  
+- Find the area and perimeter of rectangle with a length of 143 and width of 82.
+- Choose variable names which are meaningful for this problem, like Area, Width, etc.
+
+### Statements Required: 
+- System.out
+- Variable Assignment
+
+### Sample Output:
+>The Length is 143
+>
+>The width is 82
+>
+>
+>The area is 11726
+>
+>The perimeter is 450
