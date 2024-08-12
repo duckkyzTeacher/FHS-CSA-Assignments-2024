@@ -14,6 +14,11 @@ public class Program1
      }
 }
 
+//Paste console output below:
+/*
+
+
+*/
 
 //Answer #4 below:
 /*
