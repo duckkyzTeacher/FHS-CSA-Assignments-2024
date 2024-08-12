@@ -6,3 +6,8 @@ public class Program2{
 
 }
 
+//Paste console output below:
+/*
+
+
+*/
